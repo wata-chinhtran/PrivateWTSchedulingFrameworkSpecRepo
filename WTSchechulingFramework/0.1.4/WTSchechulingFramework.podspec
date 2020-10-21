@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'WTSchechulingFramework'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'Build the framework like Google Calendar.'
  
   s.description      = <<-DESC
@@ -10,7 +10,7 @@ This is a Framework support add events help user arrange works, appointments,...
   s.homepage         = 'https://github.com/wata-chinhtran/WTSchechulingFramework'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Chinh Tran' => 'chinh.tran@watasolutions.com' }
-  s.source           = { :git => 'https://github.com/wata-chinhtran/WTSchechulingFramework.git', :tag => "0.1.3" }
+  s.source           = { :git => 'https://github.com/wata-chinhtran/WTSchechulingFramework.git', :tag => "0.1.4" }
   s.resources        = "WTSchechulingFramework/WTSchechuling/Xibs/*.{xib}"
 
   s.module_name      = 'WTSchechulingFramework'
