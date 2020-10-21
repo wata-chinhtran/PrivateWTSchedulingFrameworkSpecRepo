@@ -11,7 +11,7 @@ This is a Framework support add events help user arrange works, appointments,...
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Chinh Tran' => 'chinh.tran@watasolutions.com' }
   s.source           = { :git => 'https://github.com/wata-chinhtran/WTSchechulingFramework.git', :tag => "0.1.0" }
-  s.resources        = "WTSchechulingFramework/WTSchechuling/**/*.{png,jpeg,jpg,storyboard,xib,xcassets,ttf,otf,h,m}"
+  s.resources        = "WTSchechulingFramework/WTSchechuling/**/*.{png,jpeg,jpg,storyboard,xib,xcassets,h,m}"
 
   s.dependency 'FSCalendar'
   s.dependency 'CHTCollectionViewWaterfallLayout'
